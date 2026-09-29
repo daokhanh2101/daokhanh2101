@@ -37,6 +37,5 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daokhanh2101&layout=compact&theme=radial&v=1" alt="Top Langs" height="165" />
   <img src="https://streak-stats.demolab.com?user=daokhanh2101&theme=radial" alt="GitHub Streak" height="165" />
 </p>
