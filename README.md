@@ -31,6 +31,6 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=daokhanh2101&show_icons=true&theme=radial&cache_seconds=86400" alt="Khanh's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daokhanh2101&layout=compact&theme=radial&cache_seconds=86400" alt="Top Langs" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=daokhanh2101&show_icons=true&theme=radial&cache_seconds=86400" height="165" />
+  <img src="https://streak-stats.demolab.com?user=daokhanh2101&theme=radial" height="165" />
 </p>
